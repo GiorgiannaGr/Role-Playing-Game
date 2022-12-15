@@ -62,6 +62,7 @@ https://github.com/GiorgiannaGr/Role-Playing-Game/blob/2aa926f03cbc609d58d627c11
 https://github.com/GiorgiannaGr/Role-Playing-Game/blob/632d555e69124e86aaa52a51005877326f50736f/my_report/collider.jpg 
 
 https://github.com/GiorgiannaGr/Role-Playing-Game/blob/6b8004211091fdc689b2ad67aaa38f4c70580266/my_report/error.jpg
+https://github.com/GiorgiannaGr/Role-Playing-Game/blob/969a356d7e6f34192f67b8acda74a3462727b292/my_report/error2.jpg
 
 # 3rd Deliverable 
 
