@@ -61,6 +61,8 @@ https://github.com/GiorgiannaGr/Role-Playing-Game/blob/2aa926f03cbc609d58d627c11
 1ο Βήμα: World Interactions- Blocking Movement. Σε αυτό το βήμα, παρόλο που ακουλούθησα πιστά τις οδηγίες όσον αφορά το tilemaps collider και το Composite Collider 2D, ο παίκτης μου συνεχίζει να περνά μέσα από τα εμπόδια. Στην παρακάτω φωτογραφία φαίνεται το σημείο στο οποίο βρίσκομαι και προσπαθώ να καταλάβω τι δεν λειτουργεί σωστά, ενώ έχω βάλει collider στον  player.
 https://github.com/GiorgiannaGr/Role-Playing-Game/blob/632d555e69124e86aaa52a51005877326f50736f/my_report/collider.jpg 
 
+https://github.com/GiorgiannaGr/Role-Playing-Game/blob/6b8004211091fdc689b2ad67aaa38f4c70580266/my_report/error.jpg
+
 # 3rd Deliverable 
 
 
